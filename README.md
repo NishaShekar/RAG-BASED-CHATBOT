@@ -29,7 +29,6 @@ Google Gemini API
 
 LangChain
 
-App link : https://rag-based-chatbot-110.streamlit.app/
 FAISS
 
 HuggingFace Sentence Transformers
@@ -37,3 +36,5 @@ HuggingFace Sentence Transformers
 PyPDF
 
 dotenv
+
+App link : https://rag-based-chatbot-110.streamlit.app/
